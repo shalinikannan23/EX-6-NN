@@ -77,11 +77,11 @@ print(classification_rep)
 ```
 <H3>Output:</H3>
 
-![image](https://github.com/shalinikannan23/EX-6-NN/assets/118656529/1df76536-f124-46c0-b971-f441f5e533de)
+<img height=16% width=24% src="https://github.com/shalinikannan23/EX-6-NN/assets/118656529/1df76536-f124-46c0-b971-f441f5e533de">
 
-![image](https://github.com/shalinikannan23/EX-6-NN/assets/118656529/f098276e-8d9a-4535-845c-8abaa82d88fa)
+<img height=16% width=24% src="https://github.com/shalinikannan23/EX-6-NN/assets/118656529/f098276e-8d9a-4535-845c-8abaa82d88fa">
 
-![image](https://github.com/shalinikannan23/EX-6-NN/assets/118656529/1a39665a-caa9-41d1-8a7b-c5f3e6d7a6c0)
+<img height=16% width=24% src="https://github.com/shalinikannan23/EX-6-NN/assets/118656529/1a39665a-caa9-41d1-8a7b-c5f3e6d7a6c0">
 
 
 <H3>Results:</H3>
